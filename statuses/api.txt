@@ -1,0 +1,4 @@
+g 2015-08-26T00:00 No known issues
+a 2015-08-25T13:04 Ok, slowly coming back online..
+r 2015-08-25T13:01 Ah, so _that's_ what a load balancer's for!
+g 2015-08-25T00:00 Celebrating 10 days without downtime :D
